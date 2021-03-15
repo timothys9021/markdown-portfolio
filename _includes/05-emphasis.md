@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a graduate software engineer with exposure to _*Microsoft Azure, AWS, Docker,*_ with great skills regarding some of the following languages **HTML, JavaScript, Python C*, C++**.
